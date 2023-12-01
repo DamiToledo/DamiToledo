@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Java, JavaScript, HTML5, CSS, Python, Bootstrap, Springboot, React, Unity and Godot.
+- 🌱 I’m currently learning Java, JavaScript, HTML5, CSS3, Python, Bootstrap, Springboot, React, Unity and Godot.
 
 
 <!---
